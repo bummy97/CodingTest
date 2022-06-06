@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class codeup11034 {
+public class codeup1034 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a8 = sc.nextLine();
