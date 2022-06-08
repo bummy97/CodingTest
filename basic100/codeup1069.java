@@ -1,3 +1,4 @@
+package basic100;
 import java.util.Scanner;
 
 public class codeup1069 {
